@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 
 import Landing from "../pages/Landing";
 import Login from "../pages/Login";
-import Signup from "../pages/Signup";
+import Signup from "../pages/SignUp";
 import Profile from "../pages/Profile";
 
 const router = createBrowserRouter([
