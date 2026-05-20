@@ -1,4 +1,4 @@
-import "./style1.css";
+import "../styles/components.css";
 
 const MobileLayout = ({ children }) => {
   return (

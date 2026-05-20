@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import MobileLayout from "../components/MobileLayout";
 import Button from "../components/Button";
 
-import "./style2.css";
+import "../styles/pages.css";
 
 const Landing = () => {
   const navigate = useNavigate();
