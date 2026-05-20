@@ -6,7 +6,8 @@ const Profile = () => {
   return (
     <MobileLayout>
 
-      <div className="profile-page">
+      <div className="profile-page"
+      style={{paddingBottom:"400px"}}>
 
         <div className="profile-header">
 
