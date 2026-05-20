@@ -6,6 +6,7 @@ const InputField = ({
   placeholder,
   value,
   onChange,
+  name,
 }) => {
   return (
     <div className="input-group">
@@ -19,6 +20,7 @@ const InputField = ({
         placeholder={placeholder}
         value={value}
         onChange={onChange}
+        name={name}
       />
     </div>
   );
